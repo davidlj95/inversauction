@@ -1,0 +1,25 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.inversauction.com
+title: InversAuction
+email: info@inversauction.com
+email_name: InversAuction
+email_subject: InversAuction%20Website%20contact
+email_temp: inversauction@davidlj95.com
+author: davidlj95
+description: > # "Write an awesome description for your new site here.
+  Connecting customers and providers in the first B2B platform for SMEs
+copyright: 'Copyright &copy; 2017 InversAuction. All Rights Reserved.'
+credits: > # "Credits
+  davidlj95
+repository: davidlj95/inversauction
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+gems:
+- jekyll-email-protect
